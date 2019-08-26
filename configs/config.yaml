@@ -1,0 +1,8 @@
+Port: 8080
+Logger:
+  level: info
+  encoding: console
+  outputPaths:
+    - stdout
+  errorOutputPaths:
+    - stderr
